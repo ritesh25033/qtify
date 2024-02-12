@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/qtify/static/css/main.13695953.css",
-    "main.js": "/qtify/static/js/main.50e9f7ad.js",
+    "main.css": "/qtify/static/css/main.c907c75f.css",
+    "main.js": "/qtify/static/js/main.9cab472f.js",
     "static/js/592.f1f0411a.chunk.js": "/qtify/static/js/592.f1f0411a.chunk.js",
     "static/media/vibrating-headphone.png": "/qtify/static/media/vibrating-headphone.803d5b4573637aac4258.png",
+    "static/media/slick.svg": "/qtify/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/qtify/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/qtify/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/qtify/static/media/slick.295183786cd8a1389865.woff",
     "static/media/Search-icon.svg": "/qtify/static/media/Search-icon.dd412b17d027f487794a6a6efed1d8be.svg",
     "index.html": "/qtify/index.html",
-    "main.13695953.css.map": "/qtify/static/css/main.13695953.css.map",
-    "main.50e9f7ad.js.map": "/qtify/static/js/main.50e9f7ad.js.map",
+    "main.c907c75f.css.map": "/qtify/static/css/main.c907c75f.css.map",
+    "main.9cab472f.js.map": "/qtify/static/js/main.9cab472f.js.map",
     "592.f1f0411a.chunk.js.map": "/qtify/static/js/592.f1f0411a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13695953.css",
-    "static/js/main.50e9f7ad.js"
+    "static/css/main.c907c75f.css",
+    "static/js/main.9cab472f.js"
   ]
 }
